@@ -55,4 +55,3 @@ The system uses MySQL database to store:
 - Service history
 - Oil change records
 - Spare part replacement records
-
